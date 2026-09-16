@@ -8,5 +8,5 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-2D333B?style=flat&logo=typescript&logoColor=3178C6)
 ![CSS3](https://img.shields.io/badge/CSS3-2D333B?style=flat&logo=css&logoColor=663399)
 
-Main <a href="https://github.com/chaiwatthiwapat" target="_blank">github</a>
+Main <a href="https://github.com/chaiwatthiwapat" target="_blank">GitHub</a>
 
