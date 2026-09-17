@@ -10,3 +10,16 @@
 
 Main <a href="https://github.com/chaiwatthiwapat" target="_blank">GitHub</a>
 
+```text
+About Me
+==========
+Thai software developer, born in 2002, building accounting & tax systems end-to-end,
+from user requirements to production, while maintaining the core repository
+and development direction.
+
+Learning & Building
+==========
+Exploring AI, building AI chat and RAG/vector search projects,
+programming in my free time, customizing Linux,
+and creating tools for my own use.
+```
