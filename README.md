@@ -12,7 +12,7 @@ Main <a href="https://github.com/chaiwatthiwapat" target="_blank">Repository</a>
 
 ```text
 About Me
-Thai software developer with 5y+ of experience, born in 2002.
+Thai software developer with 5y+ of experience, born in 2002., Male
 
 Learning & Building
 AI, RAG/vector, customizing Linux, creating tools
