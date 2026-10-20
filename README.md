@@ -14,11 +14,9 @@ Main <a href="https://github.com/chaiwatthiwapat" target="_blank">Repository</a>
 About Me
 - Thai software developer with 5y+ of experience, born in 2002 Male.
 
-Learning & Building
-- AI, RAG/vector, customizing Linux, creating tools
-
 Personal Interests
 - Anime, Game, Programming, Linux, Math
+- AI, RAG/vector, customizing Linux, creating tools
 ```
 
 
