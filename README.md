@@ -14,7 +14,7 @@ About Me
 - Thai software developer with 5y+ of experience, born in 2002 Male.
 
 Personal Interests
-- Anime, Game, Programming, Linux, Math
+- Anime, Game, Programming, Linux, Math, 2D
 - AI, RAG/vector, customizing Linux, creating tools
 ```
 
