@@ -7,7 +7,7 @@
 
 Main <a href="https://github.com/chaiwatthiwapat" target="_blank">Repository</a>
 
-![My Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=z99natza&layout=compact&langs_count=8&theme=vue-dark&custom_title=Programming%20Languages)
+![langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=z99natza&layout=compact&langs_count=8&theme=nightowl)
 
 ```text
 About Me
@@ -17,6 +17,8 @@ Personal Interests
 - Anime, Game, Programming, Linux, Math, 2D
 - AI, RAG/vector, customizing Linux, creating tools
 ```
-
+<p align="left">
+ <img src="https://komarev.com/ghpvc/?username=z99natzat&style=flat-square"/>
+</p>
 
 
