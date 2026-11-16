@@ -8,8 +8,6 @@
 
 Main <a href="https://github.com/chaiwatthiwapat" target="_blank">Repository</a>
 
-![langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=z99natza&layout=compact&langs_count=8&theme=nightowl)
-
 ```text
 About Me
 - Thai software developer with 5y+ of experience, born in 2002 Male.
