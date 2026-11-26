@@ -10,7 +10,7 @@ Main <a href="https://github.com/chaiwatthiwapat" target="_blank">Repository</a>
 
 ```text
 About Me
-- Thai software developer with 5y+ of experience, born in 2002 Male.
+- Thai Full Stack developer with 5y+ of experience, born in 2002 Male.
 
 Personal Interests
 - Anime, Game, Programming, Linux, Math, 2D
